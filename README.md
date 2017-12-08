@@ -13,7 +13,7 @@ LIS 2360:  Web Application Development
 (This assignment was produced to give me a better understanding of ajax.)
 
 ### View Project:
-(https://knm16f.github.io/lesson8_ajax/..)
+(https://knm16f.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
 1. (This assignment taught me how to ork with ajax.)
