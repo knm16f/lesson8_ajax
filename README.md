@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kyla Murphy)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was produced to give me a better understanding of ajax.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://knm16f.github.io/lesson8_ajax/..)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (This assignment taught me how to ork with ajax.)
+2. (I learned the interworkings of a website.)
+3. (I also learned that the smallest error can interupt a coding process.)
